@@ -19,3 +19,7 @@ print()
 
 # error: IndexError
 # print(months[4])
+
+months.remove("April")
+for month in months:
+    print(month)
