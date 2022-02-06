@@ -1,0 +1,8 @@
+print(type("Hello World"))
+print(type(0))
+print(type(9.99))
+print(type(True))
+print(type(False))
+print(type([1, 2, 3, 4, 5]))
+print(type({"Name": "John Doe"}))
+print(type({1, 2, 3, 4, 5}))
